@@ -2,7 +2,7 @@
 
 Meu nome é Thomas Erique Rossi
 <div>
-  ⌨🖱 Atualmente estou trabalhando como desenvolvedor Full Stack com utilizando das tecnologias de Asp.Net Core MVC, Angular e SQL.
+  ⌨🖱 Atualmente estou trabalhando como desenvolvedor Full Stack Jr. utilizando das tecnologias de Asp.Net Core MVC, Angular e SQL.
 </div>
 
 <div>
