@@ -6,7 +6,7 @@ Meu nome é Thomas Erique Rossi
 </div>
 
 <div>
-  ✍ No momento estou me aprofundando em Angular pois pretendo me especializar como back-end ou front-end.
+  ✍ No momento estou me aprofundando em .Net Core pois pretendo me especializar como back-end.
 </div>
 
 <div>
