@@ -1,4 +1,4 @@
-## Olá visitante 👀 ##
+## Olá ##
 
 Meu nome é Thomas Erique Rossi
 <div>
